@@ -1,4 +1,4 @@
-# Barnsley's Fern
+# Barnsley's Fern (WORK IN PROGRESS)
 
 Welcome to the Barnsley's Fern repository! Explore the elegant world of fractals and artistic visualization.
 
